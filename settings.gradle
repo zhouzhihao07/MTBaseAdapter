@@ -1,0 +1,3 @@
+include ':MTBaseAdapter'
+include ':app'
+rootProject.name = "MTBaseAdapter"
